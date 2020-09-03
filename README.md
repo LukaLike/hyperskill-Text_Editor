@@ -9,4 +9,4 @@ Swing and multithreading.
 Improve searching.
 
 ### Result:
-![Usage](https://github.com/LukaLike/demo/blob/master/hyperskill-text_editor.gif)
+![Result](https://github.com/LukaLike/demo/blob/master/hyperskill-text_editor.gif)
