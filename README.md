@@ -8,5 +8,5 @@ Swing and multithreading.
 ### TODO:
 Improve searching.
 
-### Usage:
+### Result:
 ![Usage](https://github.com/LukaLike/demo/blob/master/hyperskill-text_editor.gif)
